@@ -2,7 +2,7 @@
 
 # Ahmed Alaqab
 
-### PhD Candidate · Clinical Pharmacy · AI in Healthcare · Clinical Data Analysis · Digital Health · Health Informatics
+### Clinical Data Science · AI & Big Healthcare Data · Real-World Evidence · Precision Therapeutics
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3586--3242-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3586-3242)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=swC2GY8AAAAJ)
@@ -12,74 +12,86 @@
 
 </div>
 
----
-
 ## Profile
 
-I am a **PhD candidate at the University of Cyberjaya, Malaysia**, with a background in **Clinical Pharmacy** and a research focus on responsible, reproducible applications of **artificial intelligence, clinical data analysis, digital health, health informatics, and real-world evidence**.
+I am **Ahmed Alaqab**, a PhD candidate at the University of Cyberjaya, Malaysia, with a clinical-pharmacy background and a developing technical specialization in **clinical data science, artificial intelligence, real-world evidence, and precision therapeutics**.
 
-My work emphasizes **analytical transparency, reproducibility, data quality, clinically meaningful interpretation, and responsible use of health data**.
+My work sits at the intersection of therapeutics and data: using reproducible analytical workflows to study treatment outcomes, medication use, clinical evidence, and data-driven healthcare. I prioritize methodological transparency, data quality, reproducibility, clinically meaningful interpretation, and responsible use of health data.
 
-## Research Focus
+## Research Direction
 
-| Area | Focus |
-|---|---|
-| **AI in Healthcare** | Responsible, interpretable, and clinically relevant applications of AI |
-| **Clinical Data Analysis** | Reproducible preprocessing, quality control, descriptive and statistical workflows |
-| **Digital Health & Informatics** | Data-driven healthcare, health information systems, and digital research methods |
-| **Real-World Evidence** | Observational research and evidence generation from real-world health data |
-| **Evidence Synthesis** | Structured evidence synthesis and data-informed clinical research |
-| **Reproducible Research** | Transparent research software, documented workflows, testing, and auditability |
+**Long-term niche:** AI-enabled clinical big-data science for precision therapeutics and real-world evidence.
 
-## Featured Research Software
+Current priorities include:
+
+- longitudinal real-world clinical and medication data;
+- treatment effectiveness, safety, adherence, and persistence;
+- causal inference and target-trial emulation;
+- clinical prediction and responsible healthcare machine learning;
+- reproducible R, Python, and SQL workflows;
+- clinical NLP/LLM evaluation where clinically justified;
+- evidence synthesis and reproducible meta-analysis;
+- interoperable healthcare data concepts including OMOP and FHIR.
+
+## Demonstrated Research Software
 
 ### [Clinical Data Analysis Pipeline](https://github.com/ahmedalaqab33-source/clinical-data-analysis-pipeline)
 
-A reproducible Python workflow for clinical-research data quality checks and descriptive analysis, designed with privacy-aware handling, transparent scope, automated testing, and reproducibility in mind.
+A public, privacy-aware Python workflow for tabular clinical-research data quality checks and descriptive summaries.
 
-**Core stack:** `Python` · `pandas` · `pytest` · `Ruff` · `GitHub Actions` · quality-control reporting · reproducible research
+**Demonstrated engineering practices:** Python · pandas · pytest · Ruff · GitHub Actions · automated QC · documentation · reproducibility · privacy-aware data handling.
 
-**Repository strengths:**
-- explicit data-quality checks and duplicate handling;
-- machine-readable QC output;
-- tests and linting configuration;
-- privacy-aware data handling;
-- research documentation, contribution guidance, security guidance, citation metadata, and licensing.
+The repository deliberately does **not** claim to be a validated clinical decision system and does not include patient-level or restricted data.
 
-## Research & Technical Principles
+## Current Technical Development
 
-I aim to build research workflows that are:
+I am deliberately building capability through real research projects rather than disconnected tutorials.
 
-- **Reproducible** — documented steps, explicit dependencies, and repeatable execution.
-- **Transparent** — clear assumptions, limitations, and quality-control checks.
-- **Privacy-aware** — no unnecessary exposure of participant-level or restricted clinical data.
-- **Clinically grounded** — analytical outputs interpreted in the context of healthcare and clinical research.
-- **Responsible** — clear separation between exploratory research tools and validated clinical decision systems.
+| Domain | Current direction |
+|---|---|
+| **R** | Reproducible statistical workflows, regression, evidence synthesis, survival and causal methods |
+| **Python** | Clinical-data processing, automated QC, reproducible analytics and machine-learning workflows |
+| **SQL** | Cohort construction and longitudinal healthcare-data querying |
+| **RWE / Pharmacoepidemiology** | Comparative effectiveness, medication outcomes and longitudinal observational research |
+| **Causal Inference** | DAG-informed adjustment, propensity methods, weighting and target-trial emulation |
+| **Clinical AI** | Prediction, calibration, validation, interpretability and clinical utility |
+| **Research Engineering** | Git/GitHub, testing, dependency control, auditable pipelines and reproducible outputs |
 
-## Tools & Methods
+Skills listed here are treated as competencies to be demonstrated through auditable projects—not as claims of mastery.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Research%20Analytics-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-Statistical%20Computing-276DC3?logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-Data%20Workflows-336791?logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Reproducible%20Research-181717?logo=github&logoColor=white" alt="GitHub" />
-</p>
+## Research Engineering Standard
 
-**Methods:** clinical data analysis · healthcare analytics · data quality control · statistical reporting · reproducible analysis · observational research · evidence synthesis
+Projects are developed toward a common standard:
 
-## Current Portfolio Direction
+`Research question → cohort/data specification → data-quality audit → preprocessing → statistical/causal analysis → validation → clinical interpretation → reproducible tables & figures → documented repository`
 
-I am building a focused public portfolio around:
+Core principles:
 
-1. **Clinical data analysis and quality-control pipelines**
-2. **Reproducible R and Python research workflows**
-3. **Responsible AI and digital-health research tools**
-4. **Transparent evidence-generation workflows for clinical research**
+- **Reproducible:** explicit dependencies, deterministic steps, documented execution.
+- **Auditable:** assumptions, exclusions, transformations, and QC checks are visible.
+- **Clinically grounded:** methods serve a meaningful clinical or therapeutic question.
+- **Privacy-aware:** no PHI, restricted participant-level data, credentials, or confidential datasets are published.
+- **Statistically responsible:** exploratory and confirmatory work are distinguished; uncertainty and limitations are reported.
+- **No fabricated results:** outputs must be traceable to authorized data and executable analysis.
+
+## Portfolio Roadmap
+
+High-value portfolio directions are being developed around:
+
+1. Clinical big-data analysis and automated data-quality control
+2. Real-world evidence and comparative treatment outcomes
+3. Target-trial emulation and causal inference
+4. Clinical prediction-model development and validation
+5. Machine learning for medication and treatment outcomes
+6. Clinical NLP/LLM evaluation
+7. OMOP/FHIR-oriented healthcare-data analytics
+8. Reproducible systematic-review and meta-analysis pipelines
+
+Quality, scientific validity, and reproducibility take priority over repository count.
 
 ## Collaboration
 
-I welcome research collaboration in **AI in healthcare, clinical data analysis, digital health, health informatics, real-world evidence, evidence synthesis, and reproducible clinical research**.
+I welcome rigorous collaboration in **clinical data science, AI in healthcare, real-world evidence, medication outcomes, precision therapeutics, digital health, health informatics, and reproducible evidence generation**.
 
 **Professional and research enquiries:** [ahmedalaqab33@gmail.com](mailto:ahmedalaqab33@gmail.com)
 
@@ -89,6 +101,6 @@ I welcome research collaboration in **AI in healthcare, clinical data analysis, 
 
 **Ahmed Alaqab** · University of Cyberjaya · Malaysia
 
-*Clinical Pharmacy · AI in Healthcare · Clinical Data Analysis · Digital Health · Health Informatics · Real-World Evidence*
+*Clinical Data Science · AI & Big Healthcare Data · Real-World Evidence · Precision Therapeutics*
 
 </div>
