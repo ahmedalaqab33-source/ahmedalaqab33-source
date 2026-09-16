@@ -43,6 +43,12 @@ A public, privacy-aware Python workflow for tabular clinical-research data quali
 
 The repository deliberately does **not** claim to be a validated clinical decision system and does not include patient-level or restricted data.
 
+### What this evidence establishes
+
+The public pipeline demonstrates a small CSV-based descriptive workflow with automated software checks. Its tests establish behavior on controlled fixtures; they do not establish clinical validity, patient-outcome benefit, production readiness, or experience with large EHR or claims datasets.
+
+RWE, SQL cohort construction, survival analysis, causal inference, OMOP/FHIR and clinical machine learning remain development priorities until a reproducible project demonstrates the relevant methods. Reviewing AI studies is evidence-synthesis work; it is not equivalent to training or externally validating an AI model. Code developed with AI assistance also requires my own understanding, verification and scientific review before it supports a claim of independent proficiency.
+
 ## Current Technical Development
 
 I am deliberately building capability through real research projects rather than disconnected tutorials.
