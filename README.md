@@ -14,6 +14,8 @@
 
 </div>
 
+**[Academic profile hub — publications, projects and professional links](https://github.com/ahmedalaqab33-source/ahmedalaqab33-source/blob/main/academic-profile.md)**
+
 ## Profile
 
 I am **Ahmed Alaqab**, a PhD candidate at the University of Cyberjaya, Malaysia, with a clinical-pharmacy background and a developing technical specialization in **clinical data science, artificial intelligence, real-world evidence, and precision therapeutics**.
