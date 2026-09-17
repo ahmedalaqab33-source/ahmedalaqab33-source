@@ -2,12 +2,14 @@
 
 # Ahmed Alaqab
 
+**PhD Researcher · University of Cyberjaya, Malaysia**
+
 ### Clinical Data Science · AI & Big Healthcare Data · Real-World Evidence · Precision Therapeutics
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--3586--3242-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0000-3586-3242)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=swC2GY8AAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ahmed-Alaqab-2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-riyadh-alaqab-71377a25/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-riyadh-alaqab-71377a25b/)
 [![Email](https://img.shields.io/badge/Email-ahmedalaqab33%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmedalaqab33@gmail.com)
 
 </div>
